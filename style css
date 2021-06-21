@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" type="text/css" href="example.css" media=”screen” />
+
 a {
   background-color: red;
   color: white;
